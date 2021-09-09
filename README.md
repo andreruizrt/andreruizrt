@@ -13,21 +13,23 @@
 <br/>
 ❤️ Amo a programação e visualizo o poder que ela proporciona! 
 <br/>
-🧠 Quero um dia participar da criação de uma inteligência artificial com conciência.
+🧠 Quero um dia participar da criação de uma conciência artificial.
 <br/> Eu amo aprender e compartilhar conhecimento!
 <br/> Software Engineer :computer:
 
 <h3 align="left"> 💻 Sobre mim:</h3>
- 🏫:  &nbsp; <i> Graduando Engenharia de Software - UTFPR <i>
- <br/> :purple_heart: &nbsp; 
- <br/> :star: &nbsp; 
+ 🏫:  &nbsp;<i>Graduando Engenharia de Software - UTFPR <i>
+<!--  <br/> 🎮: &nbsp;<b>Gosto de jogar video game</b> -->
+<!--  <br/> :star: &nbsp;  -->
  <br/> :computer: &nbsp; Minha stack: 
  <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
- <br/> 💬  &nbsp; 
- <br/> :sunglasses: &nbsp; 
+<!--  <br/> 💬  &nbsp; 
+ <br/> :sunglasses: &nbsp;  -->
+ <br/>
+ <br/>
 
 <div>
   <p align="center">
