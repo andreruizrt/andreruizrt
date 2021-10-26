@@ -1,6 +1,6 @@
 
  
-## Opa, manim! 👋
+## Hi, I'm Andre Ruiz! 👋
 <a href="https://discord.gg/keFwYktT">
   <img align="left" alt="Talk to me" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -13,7 +13,6 @@
 <br/>
 ❤️ Amo a programação e visualizo o poder que ela proporciona! 
 <br/>
-🧠 Quero um dia participar da criação de uma conciência artificial.
 <br/> Eu amo aprender e compartilhar conhecimento!
 <br/> Software Engineer :computer:
 
