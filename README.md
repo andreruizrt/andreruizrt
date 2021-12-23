@@ -9,7 +9,7 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=andreruizrt.andreruizrt)
-<br/> Eu amo aprender e compartilhar conhecimento!
+<br/> Aprender e compartilhar conhecimento!
 <br/> Software Engineer :computer:
 
 <h3 align="left"> 💻 Sobre mim:</h3>
