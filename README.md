@@ -9,10 +9,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=andreruizrt.andreruizrt)
-
-<br/>
-❤️ Amo a programação e visualizo o poder que ela proporciona! 
-<br/>
 <br/> Eu amo aprender e compartilhar conhecimento!
 <br/> Software Engineer :computer:
 
