@@ -10,7 +10,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=andreruizrt.andreruizrt)
 <br/> Aprender e compartilhar conhecimento!
-<br/> Software Engineer :computer:
 
 <h3 align="left"> 💻 Sobre mim:</h3>
  🏫:  &nbsp;<i>Graduando Engenharia de Software - UTFPR <i>
