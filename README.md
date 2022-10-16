@@ -4,7 +4,7 @@
 <a href="https://discord.gg/keFwYktT">
   <img align="left" alt="Talk to me" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
-<a href="https://www.linkedin.com/in/andrelucasruizlameida/">
+<a href="https://www.linkedin.com/in/andrelucasruizalmeida?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzK0UAm1sQdaKbiMeteu8DQ%3D%3D">
   <img align="left" alt="Andre Ruiz LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
