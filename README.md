@@ -1,8 +1,7 @@
-## ANDRE RUIZ
-Olá, sou André Ruiz, estudante de Engenharia de Software na UTFPR, localizado no Paraná. Este repositório contém projetos relacionados ao meu percurso acadêmico e profissional, focando especialmente em desenvolvimento de software.
+## ANDRE ALMEIDA
+Olá, sou André ALMEIDA, estudante de Engenharia de Software na UTFPR, localizado no Paraná. Este repositório contém projetos relacionados ao meu percurso acadêmico e profissional, focando especialmente em desenvolvimento de software.
 
 ### Sobre Mim
-**Nome:** André Ruiz \
 **Localização:** Paraná, Brasil \
 **Curso:** Engenharia de Software na UTFPR
 
