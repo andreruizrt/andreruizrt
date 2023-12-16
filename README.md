@@ -10,7 +10,7 @@ Ao longo do meu aprendizado, desenvolvi habilidades em diversas tecnologias e fe
 **Linguagens de Programação:** C++ \
 **Banco de Dados:** PostgreSQL \
 **Ferramentas de Contêineres:** Docker \
-**Servidores:** Node.js \
+**Servidores:** Node.js
 
 ### Contato
 **LinkedIn:** https://www.linkedin.com/in/andrelucasruizalmeida/
